@@ -3,7 +3,7 @@
 Chess Master Express XD must be run using a compiler such as Eclipse or Dr. Java. The game is started by running the "ChessGame.java" class.
 
 ## ChessMaster
-Chess Master Express XD was a group project for ICS4U1. It is a chess game built from the ground up that was coded in java. This project utilized the intense understanding of Chess' logic in order to recreate a chess-like expierence for the user. This project used the Graphics2D class in order to display all the graphics used within this project.
+Chess Master Express XD was a group project for ICS4U1. It is a chess game built from the ground up that was coded in java. This project utilized the intense understanding of Chess' logic in order to recreate a chess-like expierence for the user. This project used the Graphics2D class in order to display all the graphics used within this project. This project also implemented the understanding of use cases, UML diagrams and syntax, and basic project management skills including the project charter, team contract, ccope document, game design document, and risk magagement analysis.
 
 The game is unlike conventional chess, two teams of two play against each other in attempt to checkmate their opponents across 2 chessboards. Each team consists of a white and black player, and whenever a player takes an opponents piece his teammate can have the opportunity to use that piece in his own set by replacing one of his own pieces with the other piece. 
 
